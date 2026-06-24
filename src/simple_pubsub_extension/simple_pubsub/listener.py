@@ -8,7 +8,7 @@ class StudentListener(Node):
         super().__init__('listener')
         self.subscription = self.create_subscription(
             String,
-            '/student_chatter',
+            '/robocup_chatter',
             self.listener_callback,
             10
         )
