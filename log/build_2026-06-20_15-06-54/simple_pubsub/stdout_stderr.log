@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/simple_pubsub/simple_pubsub.egg-info
+writing ../../build/simple_pubsub/simple_pubsub.egg-info/PKG-INFO
+writing dependency_links to ../../build/simple_pubsub/simple_pubsub.egg-info/dependency_links.txt
+writing entry points to ../../build/simple_pubsub/simple_pubsub.egg-info/entry_points.txt
+writing requirements to ../../build/simple_pubsub/simple_pubsub.egg-info/requires.txt
+writing top-level names to ../../build/simple_pubsub/simple_pubsub.egg-info/top_level.txt
+writing manifest file '../../build/simple_pubsub/simple_pubsub.egg-info/SOURCES.txt'
+reading manifest file '../../build/simple_pubsub/simple_pubsub.egg-info/SOURCES.txt'
+writing manifest file '../../build/simple_pubsub/simple_pubsub.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/f6amy/ws_ros2/build/simple_pubsub/build
+creating /home/f6amy/ws_ros2/build/simple_pubsub/build/lib
+creating /home/f6amy/ws_ros2/build/simple_pubsub/build/lib/simple_pubsub
+copying simple_pubsub/__init__.py -> /home/f6amy/ws_ros2/build/simple_pubsub/build/lib/simple_pubsub
+copying simple_pubsub/talker.py -> /home/f6amy/ws_ros2/build/simple_pubsub/build/lib/simple_pubsub
+copying simple_pubsub/listener.py -> /home/f6amy/ws_ros2/build/simple_pubsub/build/lib/simple_pubsub
+running install
+running install_lib
+creating /home/f6amy/ws_ros2/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub
+copying /home/f6amy/ws_ros2/build/simple_pubsub/build/lib/simple_pubsub/__init__.py -> /home/f6amy/ws_ros2/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub
+copying /home/f6amy/ws_ros2/build/simple_pubsub/build/lib/simple_pubsub/talker.py -> /home/f6amy/ws_ros2/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub
+copying /home/f6amy/ws_ros2/build/simple_pubsub/build/lib/simple_pubsub/listener.py -> /home/f6amy/ws_ros2/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub
+byte-compiling /home/f6amy/ws_ros2/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/f6amy/ws_ros2/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub/talker.py to talker.cpython-310.pyc
+byte-compiling /home/f6amy/ws_ros2/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub/listener.py to listener.cpython-310.pyc
+running install_data
+creating /home/f6amy/ws_ros2/install/simple_pubsub/share/ament_index
+creating /home/f6amy/ws_ros2/install/simple_pubsub/share/ament_index/resource_index
+creating /home/f6amy/ws_ros2/install/simple_pubsub/share/ament_index/resource_index/packages
+copying resource/simple_pubsub -> /home/f6amy/ws_ros2/install/simple_pubsub/share/ament_index/resource_index/packages
+copying package.xml -> /home/f6amy/ws_ros2/install/simple_pubsub/share/simple_pubsub
+running install_egg_info
+Copying ../../build/simple_pubsub/simple_pubsub.egg-info to /home/f6amy/ws_ros2/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/f6amy/ws_ros2/install/simple_pubsub/lib/simple_pubsub
+Installing talker script to /home/f6amy/ws_ros2/install/simple_pubsub/lib/simple_pubsub
+writing list of installed files to '/home/f6amy/ws_ros2/build/simple_pubsub/install.log'

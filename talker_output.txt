@@ -1,0 +1,97 @@
+[INFO] [1781954013.861387435] [talker]: Talker node started
+[INFO] [1781954014.865608187] [talker]: Publishing: "Hello RoboCup students #1"
+[INFO] [1781954015.878271230] [talker]: Publishing: "Hello RoboCup students #2"
+[INFO] [1781954016.858241960] [talker]: Publishing: "Hello RoboCup students #3"
+[INFO] [1781954017.860904263] [talker]: Publishing: "Hello RoboCup students #4"
+[INFO] [1781954018.862032282] [talker]: Publishing: "Hello RoboCup students #5"
+[INFO] [1781954019.889429105] [talker]: Publishing: "Hello RoboCup students #6"
+[INFO] [1781954020.856929358] [talker]: Publishing: "Hello RoboCup students #7"
+[INFO] [1781954021.891130029] [talker]: Publishing: "Hello RoboCup students #8"
+[INFO] [1781954022.889438228] [talker]: Publishing: "Hello RoboCup students #9"
+[INFO] [1781954023.890168606] [talker]: Publishing: "Hello RoboCup students #10"
+[INFO] [1781954024.851807906] [talker]: Publishing: "Hello RoboCup students #11"
+[INFO] [1781954025.857246921] [talker]: Publishing: "Hello RoboCup students #12"
+[INFO] [1781954026.891477815] [talker]: Publishing: "Hello RoboCup students #13"
+[INFO] [1781954027.889858632] [talker]: Publishing: "Hello RoboCup students #14"
+[INFO] [1781954028.858024672] [talker]: Publishing: "Hello RoboCup students #15"
+[INFO] [1781954029.891601163] [talker]: Publishing: "Hello RoboCup students #16"
+[INFO] [1781954030.866044878] [talker]: Publishing: "Hello RoboCup students #17"
+[INFO] [1781954031.865274000] [talker]: Publishing: "Hello RoboCup students #18"
+[INFO] [1781954032.859286878] [talker]: Publishing: "Hello RoboCup students #19"
+[INFO] [1781954033.891195653] [talker]: Publishing: "Hello RoboCup students #20"
+[INFO] [1781954034.890366775] [talker]: Publishing: "Hello RoboCup students #21"
+[INFO] [1781954035.862211772] [talker]: Publishing: "Hello RoboCup students #22"
+[INFO] [1781954036.857985798] [talker]: Publishing: "Hello RoboCup students #23"
+[INFO] [1781954037.882592571] [talker]: Publishing: "Hello RoboCup students #24"
+[INFO] [1781954038.890521375] [talker]: Publishing: "Hello RoboCup students #25"
+[INFO] [1781954039.880386436] [talker]: Publishing: "Hello RoboCup students #26"
+[INFO] [1781954040.858173272] [talker]: Publishing: "Hello RoboCup students #27"
+[INFO] [1781954041.868394469] [talker]: Publishing: "Hello RoboCup students #28"
+[INFO] [1781954042.889044110] [talker]: Publishing: "Hello RoboCup students #29"
+[INFO] [1781954043.884166666] [talker]: Publishing: "Hello RoboCup students #30"
+[INFO] [1781954044.858314119] [talker]: Publishing: "Hello RoboCup students #31"
+[INFO] [1781954045.857990888] [talker]: Publishing: "Hello RoboCup students #32"
+[INFO] [1781954046.889322083] [talker]: Publishing: "Hello RoboCup students #33"
+[INFO] [1781954047.866864972] [talker]: Publishing: "Hello RoboCup students #34"
+[INFO] [1781954048.887950812] [talker]: Publishing: "Hello RoboCup students #35"
+[INFO] [1781954049.886556738] [talker]: Publishing: "Hello RoboCup students #36"
+[INFO] [1781954050.885409050] [talker]: Publishing: "Hello RoboCup students #37"
+[INFO] [1781954051.867760158] [talker]: Publishing: "Hello RoboCup students #38"
+[INFO] [1781954052.876261984] [talker]: Publishing: "Hello RoboCup students #39"
+[INFO] [1781954053.882388740] [talker]: Publishing: "Hello RoboCup students #40"
+[INFO] [1781954054.874875510] [talker]: Publishing: "Hello RoboCup students #41"
+[INFO] [1781954055.867793286] [talker]: Publishing: "Hello RoboCup students #42"
+[INFO] [1781954056.879863815] [talker]: Publishing: "Hello RoboCup students #43"
+[INFO] [1781954057.879134504] [talker]: Publishing: "Hello RoboCup students #44"
+[INFO] [1781954058.878498665] [talker]: Publishing: "Hello RoboCup students #45"
+[INFO] [1781954059.865509357] [talker]: Publishing: "Hello RoboCup students #46"
+[INFO] [1781954060.876454804] [talker]: Publishing: "Hello RoboCup students #47"
+[INFO] [1781954061.875116258] [talker]: Publishing: "Hello RoboCup students #48"
+[INFO] [1781954062.861255039] [talker]: Publishing: "Hello RoboCup students #49"
+[INFO] [1781954063.868625965] [talker]: Publishing: "Hello RoboCup students #50"
+[INFO] [1781954064.872675190] [talker]: Publishing: "Hello RoboCup students #51"
+[INFO] [1781954065.871729383] [talker]: Publishing: "Hello RoboCup students #52"
+[INFO] [1781954066.870194867] [talker]: Publishing: "Hello RoboCup students #53"
+[INFO] [1781954067.868715595] [talker]: Publishing: "Hello RoboCup students #54"
+[INFO] [1781954068.868939895] [talker]: Publishing: "Hello RoboCup students #55"
+[INFO] [1781954069.868459204] [talker]: Publishing: "Hello RoboCup students #56"
+[INFO] [1781954070.867403257] [talker]: Publishing: "Hello RoboCup students #57"
+[INFO] [1781954071.866282240] [talker]: Publishing: "Hello RoboCup students #58"
+[INFO] [1781954072.864518176] [talker]: Publishing: "Hello RoboCup students #59"
+[INFO] [1781954073.862372438] [talker]: Publishing: "Hello RoboCup students #60"
+[INFO] [1781954074.860407833] [talker]: Publishing: "Hello RoboCup students #61"
+[INFO] [1781954075.857291508] [talker]: Publishing: "Hello RoboCup students #62"
+[INFO] [1781954076.860630646] [talker]: Publishing: "Hello RoboCup students #63"
+[INFO] [1781954077.858439701] [talker]: Publishing: "Hello RoboCup students #64"
+[INFO] [1781954078.855059651] [talker]: Publishing: "Hello RoboCup students #65"
+[INFO] [1781954079.871311413] [talker]: Publishing: "Hello RoboCup students #66"
+[INFO] [1781954080.889812896] [talker]: Publishing: "Hello RoboCup students #67"
+Traceback (most recent call last):
+  File "/home/f6amy/ws_ros2/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub/talker.py", line 27, in main
+    rclpy.spin(node)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/__init__.py", line 229, in spin
+    executor.spin_once()
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 808, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 797, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 780, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 681, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/f6amy/ws_ros2/install/simple_pubsub/lib/simple_pubsub/talker", line 33, in <module>
+    sys.exit(load_entry_point('simple-pubsub==0.0.0', 'console_scripts', 'talker')())
+  File "/home/f6amy/ws_ros2/install/simple_pubsub/lib/python3.10/site-packages/simple_pubsub/talker.py", line 32, in main
+    rclpy.shutdown()
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/__init__.py", line 130, in shutdown
+    _shutdown(context=context)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/utilities.py", line 58, in shutdown
+    return context.shutdown()
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/context.py", line 102, in shutdown
+    self.__context.shutdown()
+rclpy._rclpy_pybind11.RCLError: failed to shutdown: rcl_shutdown already called on the given context, at ./src/rcl/init.c:241
