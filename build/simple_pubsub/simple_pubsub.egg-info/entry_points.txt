@@ -1,4 +1,0 @@
-[console_scripts]
-listener = simple_pubsub.listener:main
-talker = simple_pubsub.talker:main
-
